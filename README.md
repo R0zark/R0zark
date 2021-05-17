@@ -24,6 +24,8 @@ Name | Technologies | Link
 Cat Carousel | <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" height="24"> </p>|[cat-carousel](https://github.com/R0zark/cat-carousel)
 Projects API | <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="24"> </p> | [projects-api](https://github.com/R0zark/projects-api)
 ProyectoLDAP(Needs rework) | <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png"  height="24"> </p> | [projecto-ldap](https://github.com/R0zark/ProyectoLDAP)
+HomeD | <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" height="24"> </p>  | [homed-app](https://github.com/R0zark/homed-app)
+HomeD Server| <p align="center"><img src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png"  height="24"> </p> | [homed-server](https://github.com/R0zark/homed-server)
 
 
 <!---
